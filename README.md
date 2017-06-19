@@ -15,3 +15,7 @@ license](http://www.ohwr.org/licenses/cern-ohl/v1.2). Please read it,
 but if you're too lazy, take note that it does not give you a license
 to use the Chibitronics trademarks, and it is a copyleft-style
 license, so any derivatives also inherit this license.
+
+Looking for the Chibi Scope hardware files? They ended up getting checked
+into the source code repo for the Chibi Scope OS:
+https://github.com/chibitronics/ltc-chibiscope/tree/chibiscreen/hardware
